@@ -6,7 +6,4 @@ class PagesController < ApplicationController
   def course
   end
 
-  def testimonials
-  end
-
 end
